@@ -10,5 +10,5 @@ About Me
 * 🌱 Passionate about applying AI and ML to meaningful, real-world projects
 
 
-Feel free to reach out :D
+Feel free to reach out!  
 ✉️ may.cao@uwaterloo.ca
