@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi I'm May ^^
 
-<!--
-**mayyuchencao/mayyuchencao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science Co-op student at the University of Waterloo with interests in software engineering, AI, data engineering, and quantitive analysis.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Studying Honours Computer Science with a minor in Statistics at the University of Waterloo
+* 💼 Incoming AI Software Developer Co-op at CIBC
+* 💡 Interested in building reliable, practical, and user-focused software
+* 🌱 Passionate about applying AI and ML to meaningful, real-world projects
+
+
+Feel free to reach out :D
+✉️ may.cao@uwaterloo.ca
