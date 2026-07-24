@@ -4,7 +4,7 @@
 
 Hi I'm May ^^
 
-I’m a Computer Science Co-op student at the University of Waterloo with interests in software engineering, AI, data engineering, and quantitive analysis.
+I’m a Computer Science student at the University of Waterloo with interests in software engineering, AI, data engineering, and quantitive analysis.
 
 About Me
 
