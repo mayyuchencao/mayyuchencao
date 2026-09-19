@@ -9,7 +9,7 @@ I’m a Computer Science student at the University of Waterloo with interests in
 About Me
 
 * 🎓 Studying Honours Computer Science with a minor in Statistics at the University of Waterloo
-* 💼 Incoming AI Software Developer Co-op at CIBC
+* 💼 AI Software Developer Co-op at CIBC
 * 💡 Interested in building reliable, practical, and user-focused software
 * 🌱 Passionate about applying AI and ML to meaningful, real-world projects
 
